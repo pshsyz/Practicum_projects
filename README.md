@@ -1,6 +1,6 @@
 # Проекты ЯндексПрактикум. Курс Аналитика данных
 ## Проекты
-[Проект 3](https://github.com/pshsyz/Practicum_projects/commit/2892c605449db79c5b94882dae628e0144b66c59)
+[Проект 3](https://github.com/pshsyz/Practicum_projects/blob/main/Project_3_module.ipynb)
 
 Проверка гипотезы в Python и составление аналитической записки
 1. Яндекс книги в Москве и Санкт-Петербурге
