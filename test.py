@@ -6,3 +6,4 @@ print(a*b*c)
 print('TEST')
 
 print(a*56)
+#Тут вообще в МЭЙН забахал
