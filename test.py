@@ -4,4 +4,5 @@ c=8
 print(a*b*c)
 
 print('TEST')
-print(a)
+
+print(a*56)
