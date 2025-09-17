@@ -4,10 +4,3 @@ c=8
 print(a*b*c+556)
 
 print('TEST')
-print(a)
-
-import pandas
-import matplotlib
-
-print('This is test \n OK')
-#Тут вообще что то сделал ХЗ
