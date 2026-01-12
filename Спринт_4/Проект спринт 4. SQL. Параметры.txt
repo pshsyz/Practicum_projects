@@ -1,0 +1,9 @@
+Секреты Темнолесья. Подключение
+
+Данные подключения:
+Значение хоста — rc1b-wcoijxj3yxfsf3fs.mdb.yandexcloud.net
+База данных — data-analyst-fantasy
+Порт — 6432
+Аутентификация — Database Native
+Пользователь — praktikum_student
+Пароль — Sdf4$2;d-d30pp
